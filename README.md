@@ -1,6 +1,7 @@
 # App Creator
 
 App Creator is a tiny command-line tool written in C# that helps you kickstart React and React Native projects with ease!
+
 It creates a new project on your desktop, opens it in Visual Studio Code, starts the development Server and opens the preview in your browser.
 
 ## Usage
